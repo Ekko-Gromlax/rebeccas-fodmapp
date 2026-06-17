@@ -287,10 +287,10 @@
     "categorie": "Fruit",
     "status": "laag",
     "pagina": 11,
-    "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
+    "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer. Let op: rijpe banaan is hoog in oligosachariden — onrijp (stevig, geel) is prima.",
     "subcategorie": "Vers fruit",
     "fodmap": {
-      "oligos": "hoog",
+      "oligos": "laag",
       "fructose": "laag",
       "polyolen": "laag",
       "lactose": "laag"

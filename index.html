@@ -52,6 +52,10 @@
   .chips{display:flex;gap:8px;overflow-x:auto}
   .chip{flex:0 0 auto;padding:9px 16px;border-radius:11px;font-family:'Hanken Grotesk';font-weight:700;font-size:13.5px;cursor:pointer;white-space:nowrap;transition:all .15s;border:none;background:var(--surface);color:var(--muted)}
   .chip.on{background:var(--brand);color:#fff}
+  .sfilter{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+  .sf{display:flex;align-items:center;gap:6px;flex:0 0 auto;padding:7px 12px;border-radius:10px;border:1.5px solid var(--line);background:transparent;color:var(--muted);font-family:'Hanken Grotesk';font-weight:700;font-size:12.5px;cursor:pointer;transition:all .15s}
+  .sf .sfdot{width:8px;height:8px;border-radius:50%}
+  .sf.on{border-color:transparent;color:var(--ink);background:var(--surface)}
 
   .countbar{display:flex;align-items:center;justify-content:space-between;padding:14px 22px 4px}
   .countbar .n{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;letter-spacing:.02em;color:var(--ink)}
@@ -115,6 +119,11 @@
       <button id="clear" aria-label="Wissen">✕</button>
     </div>
     <div class="chips noscroll" id="chips"></div>
+    <div class="sfilter" id="sfilter">
+      <button class="sf" data-status="laag"><span class="sfdot" style="background:var(--safe)"></span>Laag</button>
+      <button class="sf" data-status="beperkt"><span class="sfdot" style="background:var(--limited)"></span>Beperkt</button>
+      <button class="sf" data-status="niet"><span class="sfdot" style="background:var(--avoid)"></span>Niet toegestaan</button>
+    </div>
   </div>
 
   <div class="countbar">
@@ -150,7 +159,7 @@ const BARDEFS = [
 // Ingredients to avoid during the elimination phase (status "niet").
 const NIET_TOEGESTAAN = ["Appelextract","Appelvezel","Bloem","Bonenmeel","Cichorei","Droge melkbestanddelen","Erwtenvezel","Erythritol (E968)","Fructo-oligosacchariden (FOS)","Fructose","Fructose-glucose stroop","Fructosestroop","Fruitsap concentraat","Gedroogde knoflook","Gedroogde uien","Gedroogde vruchten","Gerst","Gerstemout","Gerstemoutmeel","Glucose-fructose stroop","Glycerine","GOS","High fructose corn siroop (HFCS)","Honing","Inuline","Isomalt (E953)","Kamut","Knoflook","Lactitol (E966)","Lactulose","Lupine","Maisstroop","Maltitol (E965)","Mannitol (E421)","Melasse","Melkpoeder","Miso","Oligofructose","Polydextrose (E1200)","Sorbitol (E420)","Tarwe","Tarwemeel","Ui","Venkelzaad","Volkoren meel","Wei eiwit concentraat","Weipoeder","Witmeel","Xylitol (E967)"];
 
-let ALLE = [], CATS = [], activeCat = 'Alle', query = '';
+let ALLE = [], CATS = [], activeCat = 'Alle', query = '', activeStatus = new Set();
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm = s => (s||'').toLowerCase();
 
@@ -158,6 +167,7 @@ function filtered(){
   const q = query.trim().toLowerCase();
   return ALLE.filter(p =>
     (activeCat === 'Alle' || p.categorie === activeCat) &&
+    (activeStatus.size === 0 || activeStatus.has(p.status)) &&
     (q === '' || norm(p.naam).includes(q) || norm(p.categorie).includes(q) ||
      norm(p.subcategorie).includes(q) || norm(p.merk).includes(q))
   );
@@ -234,6 +244,16 @@ document.getElementById('clear').addEventListener('click', () => {
 document.getElementById('chips').addEventListener('click', e => {
   const b = e.target.closest('[data-cat]'); if (!b) return;
   activeCat = b.dataset.cat; renderChips(); render();
+});
+function renderStatusFilter(){
+  document.querySelectorAll('#sfilter .sf').forEach(b =>
+    b.classList.toggle('on', activeStatus.has(b.dataset.status)));
+}
+document.getElementById('sfilter').addEventListener('click', e => {
+  const b = e.target.closest('[data-status]'); if (!b) return;
+  const s = b.dataset.status;
+  if (activeStatus.has(s)) activeStatus.delete(s); else activeStatus.add(s);
+  renderStatusFilter(); render();
 });
 document.getElementById('results').addEventListener('click', e => {
   const b = e.target.closest('[data-toggle]'); if (!b) return;
