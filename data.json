@@ -60,7 +60,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "Franse Frites, Crunch",
@@ -69,7 +76,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "Friet van ’t huis, Vlaamse friet / Oma’s smulfriet / Ouderwets lekker",
@@ -78,7 +92,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "French fries (mini fries)",
@@ -114,7 +135,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "Pommes Frites",
@@ -123,7 +151,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "Ribbelfrites, voorgebakken",
@@ -141,7 +176,14 @@
     "status": "laag",
     "pagina": 10,
     "opmerking": "",
-    "subcategorie": "Gekoeld / Diepvries"
+    "subcategorie": "Gekoeld / Diepvries",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Potato"
   },
   {
     "naam": "Aardbeien",
@@ -150,7 +192,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Dragon fruit",
@@ -159,7 +208,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dragon Fruit"
   },
   {
     "naam": "Rabarber",
@@ -168,7 +224,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rhubarb"
   },
   {
     "naam": "Ananas",
@@ -177,7 +240,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pineapple"
   },
   {
     "naam": "Kiwi",
@@ -186,7 +256,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Kiwifruit"
   },
   {
     "naam": "Sinaasappel",
@@ -195,7 +272,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Banaan",
@@ -204,7 +288,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bananas, ripe"
   },
   {
     "naam": "Limoen (sap)",
@@ -213,7 +304,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lime"
   },
   {
     "naam": "Stervrucht",
@@ -222,7 +320,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Star Fruit"
   },
   {
     "naam": "Citroen (sap)",
@@ -231,7 +336,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Mandarijnen",
@@ -240,7 +352,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mandarin"
   },
   {
     "naam": "Doerian",
@@ -249,7 +368,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Durian"
   },
   {
     "naam": "Mineola",
@@ -258,7 +384,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tangelo"
   },
   {
     "naam": "Druiven",
@@ -267,7 +400,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Grapes (Red, Green and Black)"
   },
   {
     "naam": "Papaja",
@@ -276,7 +416,14 @@
     "status": "laag",
     "pagina": 11,
     "opmerking": "Vers of diepvries, geen pot of blik. Max. 1 stuks fruit (150 g) per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Papaya"
   },
   {
     "naam": "Avocado",
@@ -285,7 +432,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1/8 van een vrucht per keer.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "hoog",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Avocado"
   },
   {
     "naam": "Grapefruit",
@@ -294,7 +448,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Grapefruit"
   },
   {
     "naam": "Rambutan",
@@ -303,7 +464,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rambutan"
   },
   {
     "naam": "Blauwe bessen",
@@ -321,7 +489,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Melons e.g. Honeydew, galia"
   },
   {
     "naam": "Cantaloupe meloen",
@@ -330,7 +505,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cantaloupe"
   },
   {
     "naam": "Kiwi gold",
@@ -339,7 +521,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Kiwifruit"
   },
   {
     "naam": "Frambozen",
@@ -357,7 +546,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "hoog",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lychee"
   },
   {
     "naam": "Granaatappel",
@@ -366,7 +562,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pomegranate"
   },
   {
     "naam": "Passiefruit",
@@ -384,7 +587,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pineapple"
   },
   {
     "naam": "Cranberries, gedroogd",
@@ -402,7 +612,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raisins"
   },
   {
     "naam": "Bananen, gedroogd",
@@ -420,7 +637,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1 eetlepel per keer. Kies niet voor kokoswater of kokosmeel.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut (fresh or dried)"
   },
   {
     "naam": "Bananen chips",
@@ -429,7 +653,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Krenten",
@@ -438,7 +669,14 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit"
+    "subcategorie": "Vers fruit",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Currants"
   },
   {
     "naam": "Alfalfa",
@@ -447,7 +685,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Alfalfa sprouts"
   },
   {
     "naam": "Boerenkool",
@@ -456,7 +701,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Kale"
   },
   {
     "naam": "Japanse (oranje) pompoen",
@@ -465,7 +717,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pumpkin"
   },
   {
     "naam": "Andijvie",
@@ -474,7 +733,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Endive"
   },
   {
     "naam": "Botersla",
@@ -492,7 +758,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Celeriac"
   },
   {
     "naam": "Aubergine",
@@ -501,7 +774,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Eggplant/Aubergine"
   },
   {
     "naam": "Chinese kool",
@@ -519,7 +799,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cucumber"
   },
   {
     "naam": "Bamboe scheuten",
@@ -528,7 +815,14 @@
     "status": "laag",
     "pagina": 11,
     "subcategorie": "Vers fruit",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bamboo shoots"
   },
   {
     "naam": "Choy sum",
@@ -546,7 +840,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Wortel",
@@ -555,7 +856,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Carrots"
   },
   {
     "naam": "Paprika (let op capsaïcine)",
@@ -564,7 +872,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Let op capsaïcine."
+    "opmerking": "Let op capsaïcine.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bell pepper"
   },
   {
     "naam": "Sperziebonen",
@@ -573,7 +888,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Green Beans"
   },
   {
     "naam": "Zeekraal",
@@ -591,7 +913,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Parsnip"
   },
   {
     "naam": "Spinazie",
@@ -600,7 +929,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Spinach"
   },
   {
     "naam": "Zeewier (nori)",
@@ -618,7 +954,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Radish"
   },
   {
     "naam": "Taugé",
@@ -627,7 +970,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bean sprouts"
   },
   {
     "naam": "Rode sla",
@@ -636,7 +986,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lettuce (e.g. rocket, butter, iceberg, radicchio, red coral, romaine)"
   },
   {
     "naam": "Tomaat, zongedroogd",
@@ -645,7 +1002,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Rucola sla",
@@ -654,7 +1018,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Arugula"
   },
   {
     "naam": "Witlof",
@@ -663,7 +1034,14 @@
     "status": "laag",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Vers, blik, pot of diepvries."
+    "opmerking": "Vers, blik, pot of diepvries.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chicory leaves"
   },
   {
     "naam": "Bleekselderij",
@@ -699,7 +1077,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Broccoli"
   },
   {
     "naam": "Kool",
@@ -717,7 +1102,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Brussel sprouts"
   },
   {
     "naam": "Linzen, gekookt",
@@ -726,7 +1118,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lentils, canned"
   },
   {
     "naam": "Courgette",
@@ -735,7 +1134,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Zucchini / courgette"
   },
   {
     "naam": "Maïskolf",
@@ -753,7 +1159,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Fennel"
   },
   {
     "naam": "Doperwten",
@@ -762,7 +1175,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peas"
   },
   {
     "naam": "Okra",
@@ -771,7 +1191,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Okra"
   },
   {
     "naam": "Witte kool",
@@ -789,7 +1216,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Butternut squash"
   },
   {
     "naam": "Paksoi",
@@ -798,7 +1232,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bok choy"
   },
   {
     "naam": "Zoete aardappel",
@@ -807,7 +1248,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sweet Potato"
   },
   {
     "naam": "Haricots verts",
@@ -825,7 +1273,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Snow peas"
   },
   {
     "naam": "Kikkererwten, blik",
@@ -834,7 +1289,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chickpeas, canned"
   },
   {
     "naam": "Prei, groene deel",
@@ -843,7 +1305,14 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer."
+    "opmerking": "Max. 1-2 eetlepels per keer.",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Leeks"
   },
   {
     "naam": "Augurken(strips), Amsterdamse zoetzuur met zoetstof",
@@ -852,7 +1321,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Gherkins in vinegar"
   },
   {
     "naam": "Cherkins, Sweet & sour",
@@ -879,7 +1355,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Olijven, groen, Grieks",
@@ -888,7 +1371,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Olijven, groen, grote Bella Cerignola",
@@ -897,7 +1387,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Olijven, kalamata, zonder pit",
@@ -906,7 +1403,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Party sticks, Sweet & sour",
@@ -924,7 +1428,14 @@
     "status": "laag",
     "pagina": 12,
     "opmerking": "Vers, blik, pot of diepvries. Kies naturel variant zonder toevoegingen.",
-    "subcategorie": "Groenten / Zuur"
+    "subcategorie": "Groenten / Zuur",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Gherkins in vinegar"
   },
   {
     "naam": "Bourbon vanille extract",
@@ -933,7 +1444,14 @@
     "status": "laag",
     "pagina": 14,
     "opmerking": "",
-    "subcategorie": "Meel en bakmiddelen"
+    "subcategorie": "Meel en bakmiddelen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Breadcrumbs (paneermeel)",
@@ -951,7 +1469,14 @@
     "status": "laag",
     "pagina": 14,
     "opmerking": "",
-    "subcategorie": "Meel en bakmiddelen"
+    "subcategorie": "Meel en bakmiddelen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Schoko Herzen (bakhartjes) Biovegan",
@@ -987,7 +1512,14 @@
     "status": "laag",
     "pagina": 14,
     "opmerking": "",
-    "subcategorie": "Meel en bakmiddelen"
+    "subcategorie": "Meel en bakmiddelen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "Paneermeel mais Bauckhof",
@@ -996,7 +1528,14 @@
     "status": "laag",
     "pagina": 14,
     "opmerking": "",
-    "subcategorie": "Meel en bakmiddelen"
+    "subcategorie": "Meel en bakmiddelen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Paneermeel Damhert / Le Poole",
@@ -1122,7 +1661,14 @@
     "status": "laag",
     "pagina": 14,
     "opmerking": "",
-    "subcategorie": "Meel en bakmiddelen"
+    "subcategorie": "Meel en bakmiddelen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Mehl -­‐ Farine",
@@ -1248,7 +1794,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "chia) Orgran, Gluten Free",
@@ -1284,7 +1837,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wheat flour"
   },
   {
     "naam": "Witbroodmix Lisa’s choice",
@@ -1320,7 +1880,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Cake mix gluten free Consenza /",
@@ -1338,7 +1905,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Cakemix vanilla, gluten vrij",
@@ -1356,7 +1930,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Choco Cake Mix",
@@ -1374,7 +1955,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Chocolate cake mix Orgran, Gluten Free",
@@ -1419,7 +2007,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Vanilla Cake mix Orgran, Gluten Free",
@@ -1437,7 +2032,14 @@
     "status": "laag",
     "pagina": 15,
     "opmerking": "",
-    "subcategorie": "Bakmixen"
+    "subcategorie": "Bakmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Pancake flour Consenza",
@@ -1491,7 +2093,14 @@
     "status": "laag",
     "pagina": 16,
     "opmerking": "",
-    "subcategorie": "Granen"
+    "subcategorie": "Granen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Griesmeelpudding Bauckhof",
@@ -1554,7 +2163,14 @@
     "status": "laag",
     "pagina": 16,
     "opmerking": "",
-    "subcategorie": "Granen"
+    "subcategorie": "Granen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Basis, vegetarisch",
@@ -1590,7 +2206,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cinnamon"
   },
   {
     "naam": "Garam masala",
@@ -1617,7 +2240,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chicken"
   },
   {
     "naam": "Kruidenmix voor vis",
@@ -1644,7 +2274,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bell pepper"
   },
   {
     "naam": "Ras el hanout",
@@ -1662,7 +2299,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Beef"
   },
   {
     "naam": "Varkensvlees",
@@ -1671,7 +2315,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pork"
   },
   {
     "naam": "Za'atar",
@@ -1689,7 +2340,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Basil"
   },
   {
     "naam": "Cacaopoeder",
@@ -1716,7 +2374,14 @@
     "status": "laag",
     "pagina": 19,
     "opmerking": "",
-    "subcategorie": "Kruidenmixen"
+    "subcategorie": "Kruidenmixen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Maggi Aroma no.2",
@@ -1905,7 +2570,14 @@
     "status": "laag",
     "pagina": 21,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "lijnzaad)",
@@ -1914,7 +2586,14 @@
     "status": "laag",
     "pagina": 21,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Flax seeds/lineseed"
   },
   {
     "naam": "Brown Rice Thins",
@@ -1950,7 +2629,14 @@
     "status": "laag",
     "pagina": 21,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Flax seeds/lineseed"
   },
   {
     "naam": "Corn Thins",
@@ -2058,7 +2744,14 @@
     "status": "laag",
     "pagina": 21,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Lijnzaadcrackers Emile Noel",
@@ -2076,7 +2769,14 @@
     "status": "laag",
     "pagina": 21,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cocoa powder"
   },
   {
     "naam": "Maïswafel",
@@ -2130,7 +2830,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pumpkin"
   },
   {
     "naam": "Popcornwafel",
@@ -2184,7 +2891,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rice 100% (gewone en dunne rijstwafel met volle rijst, ongezouten en",
@@ -2193,7 +2907,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "ongezouten)",
@@ -2211,7 +2932,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rice corn cakes",
@@ -2229,7 +2957,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rice multigrain (rijstwafel met rijst, mais, quinoa, boekweit, gierst,",
@@ -2238,7 +2973,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "amaranth)",
@@ -2256,7 +2998,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rice Wafels, Bio Biotrend",
@@ -2283,7 +3032,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rijstwafel chocolate Consenza",
@@ -2292,7 +3048,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Rijstwafel melkchocolade (van rijstmelk) Bonvita Bonritzz",
@@ -2301,7 +3064,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Milk chocolate"
   },
   {
     "naam": "Rijstwafel, pure chocolade Bonvita Bonritzz",
@@ -2310,7 +3080,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Rijstrepen, meergranen Snekkers",
@@ -2328,7 +3105,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice Cakes"
   },
   {
     "naam": "Sesamcrackers Emile Noel",
@@ -2373,7 +3157,14 @@
     "status": "laag",
     "pagina": 22,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
+    "subcategorie": "Broodvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "Toasted rice crispibread",
@@ -2517,7 +3308,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Muesli"
   },
   {
     "naam": "Drinking Oats",
@@ -2535,7 +3333,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Granola"
   },
   {
     "naam": "Havermout, geroosterde oergranen Leev",
@@ -2544,7 +3349,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Oats"
   },
   {
     "naam": "Havermout, kaneel Quaker",
@@ -2553,7 +3365,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Oats"
   },
   {
     "naam": "Havervlokken",
@@ -2580,7 +3399,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Notencrunchy, Gluten Free I am",
@@ -2616,7 +3442,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Brown rice"
   },
   {
     "naam": "Puffed Oats (gepofte haver)",
@@ -2625,7 +3458,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Oats"
   },
   {
     "naam": "Rice crispies Kellogs",
@@ -2652,7 +3492,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Bananas, ripe"
   },
   {
     "naam": "Shake awake sinaasappel, bio Rosies",
@@ -2661,7 +3508,14 @@
     "status": "laag",
     "pagina": 23,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Ontbijtgranen"
+    "subcategorie": "Ontbijtgranen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Sprouted porridge oats",
@@ -2796,7 +3650,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice milk"
   },
   {
     "naam": "Cranberry Compôte Terschellinger",
@@ -2805,7 +3666,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Cranberry-­‐duindoornjam Terschellinger",
@@ -2814,7 +3682,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Duopasta Quino",
@@ -2850,7 +3725,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Gemengde notenpasta",
@@ -2949,7 +3831,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Mierikswortelspread Zwergenwiese",
@@ -2985,7 +3874,14 @@
     "status": "laag",
     "pagina": 25,
     "opmerking": "",
-    "subcategorie": "Zoet beleg"
+    "subcategorie": "Zoet beleg",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peanut butter"
   },
   {
     "naam": "Pindakaas bio Jori / Krekeltje",
@@ -2994,7 +3890,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peanut butter"
   },
   {
     "naam": "Pindakaas light",
@@ -3003,7 +3906,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peanut butter"
   },
   {
     "naam": "Pindakaas stukjes noot",
@@ -3012,7 +3922,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peanut butter"
   },
   {
     "naam": "Pindakaas, crunchy, biologisch",
@@ -3021,7 +3938,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Peanut butter"
   },
   {
     "naam": "Pompoenpittenpasta Carley's /",
@@ -3039,7 +3963,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rhubarb"
   },
   {
     "naam": "Rozenbottel jam Roos vicee",
@@ -3066,7 +3997,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tahini"
   },
   {
     "naam": "Tahin wit Bio today",
@@ -3075,7 +4013,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tahini"
   },
   {
     "naam": "Vegetarische paté, licht gerookt Tartex",
@@ -3093,7 +4038,14 @@
     "status": "laag",
     "pagina": 26,
     "opmerking": "",
-    "subcategorie": "Notenpasta / Paté"
+    "subcategorie": "Notenpasta / Paté",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pepper, black"
   },
   {
     "naam": "Vegetarische paté, naturel Tartex",
@@ -3129,7 +4081,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Bio Filita Amaranth Chocolade Frusano",
@@ -3138,7 +4097,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Bio Filita Vollmich (volle melk chocolade) Frusano",
@@ -3147,7 +4113,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Biologische chocolade puur hazelnoot AH",
@@ -3156,7 +4129,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Hazelnuts"
   },
   {
     "naam": "Biologische pure chocolade 55% cacao AH",
@@ -3165,7 +4145,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Biologische extra pure chocolade 72% cacao AH",
@@ -3174,7 +4161,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Bros luchtige chocolade, Puur Bros",
@@ -3183,7 +4177,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Choco-­‐rijstbar",
@@ -3201,7 +4202,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Chocolade extra puur, 72% AH Delicata",
@@ -3210,7 +4218,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Chocolade letter, puur Verkade",
@@ -3219,7 +4234,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Chocolade, puur Côte d'Or / Verkade Fairtraide",
@@ -3228,7 +4250,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Chocolade, puur, hazelnoot",
@@ -3237,7 +4266,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Hazelnuts"
   },
   {
     "naam": "Chocolate and orange koekjes Island Bakery",
@@ -3282,7 +4318,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Cranberries, amandelen, pure chocolade Nestle l’Atelier",
@@ -3291,7 +4334,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Dark chocolate 85% Green Black’s",
@@ -3309,7 +4359,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Hazelnut dark chocolate Bon Vita",
@@ -3363,7 +4420,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Premium 71% dark chocolate Bon Vita",
@@ -3381,7 +4445,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Puur chocolade 85% cacao AH Delicata",
@@ -3390,7 +4461,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Reismilch schokolade Bon Vita",
@@ -3435,7 +4513,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice milk"
   },
   {
     "naam": "Aardbeien Red Band / Haribo",
@@ -3444,7 +4529,14 @@
     "status": "laag",
     "pagina": 28,
     "opmerking": "",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Bananas Haribo",
@@ -3507,7 +4599,14 @@
     "status": "laag",
     "pagina": 29,
     "opmerking": "",
-    "subcategorie": "Snoep"
+    "subcategorie": "Snoep",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Cheery cherries Goody Good Stuff",
@@ -3687,7 +4786,14 @@
     "status": "laag",
     "pagina": 29,
     "opmerking": "",
-    "subcategorie": "Snoep"
+    "subcategorie": "Snoep",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cinnamon"
   },
   {
     "naam": "Kaneelstok Hooy",
@@ -3732,7 +4838,14 @@
     "status": "laag",
     "pagina": 29,
     "opmerking": "",
-    "subcategorie": "Snoep"
+    "subcategorie": "Snoep",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Keelpastilles, classic / dropmint / mint Menthol Anta Flu",
@@ -4191,7 +5304,14 @@
     "status": "laag",
     "pagina": 30,
     "opmerking": "",
-    "subcategorie": "Drop"
+    "subcategorie": "Drop",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Salt"
   },
   {
     "naam": "Zwart-­‐wit pastilles Fortuin",
@@ -4290,7 +5410,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Butter"
   },
   {
     "naam": "Koekjes, citroen roomboter shortbread Kent & Fraser",
@@ -4299,7 +5426,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Butter"
   },
   {
     "naam": "Koekjes, pittige gember Kent & Fraser",
@@ -4308,7 +5442,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Ginger"
   },
   {
     "naam": "Koekjes, vanille roomboter Kent & Fraser",
@@ -4317,7 +5458,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Butter"
   },
   {
     "naam": "Lemon cookies",
@@ -4362,7 +5510,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Sesame snaps De Tuinen",
@@ -4407,7 +5562,14 @@
     "status": "laag",
     "pagina": 31,
     "opmerking": "",
-    "subcategorie": "Koek en wafels"
+    "subcategorie": "Koek en wafels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "AA Iso lemon AA",
@@ -4479,7 +5641,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Cranberry The Berry Company / Ocean Spray",
@@ -4488,7 +5657,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Cranberry light Ocean Spray",
@@ -4497,7 +5673,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Cranberry sap",
@@ -4506,7 +5689,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Framboos & bosbes Chrystal Clear",
@@ -4515,7 +5705,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Goji Berry The Berry Company",
@@ -4524,7 +5721,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Goji Berries"
   },
   {
     "naam": "Roosvicee Frisfruit 50/50 Roos Vice",
@@ -4542,7 +5746,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "hoog",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange juice"
   },
   {
     "naam": "Sinaasappel & Mandarijn Chrystal Clear",
@@ -4551,7 +5762,14 @@
     "status": "laag",
     "pagina": 33,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Alcohol / Frisdrank"
+    "subcategorie": "Alcohol / Frisdrank",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "SuperBerry Purple The Berry Company",
@@ -4785,7 +6003,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Sparkling lemon Chrystal Clear",
@@ -4830,7 +6055,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Nescafé café Mocca Nescafé",
@@ -4848,7 +6080,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Aardbei vruchtenlimonadesiroop Maya",
@@ -4857,7 +6096,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Bosvruchtensiroop Slimpie",
@@ -4875,7 +6121,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chamomile tea"
   },
   {
     "naam": "Citroensiroop Dille & Kamille BIO",
@@ -4884,7 +6137,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chamomile tea"
   },
   {
     "naam": "Frambozensiroop Dille & Kamille BIO",
@@ -4893,7 +6153,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chamomile tea"
   },
   {
     "naam": "Fruit Shoot Aardbei & Framboos Robinsons",
@@ -4902,7 +6169,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Sinaasappel & Framboos siroop Slimpie",
@@ -4911,7 +6185,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Sinaasappel siroop Slimpie",
@@ -4920,7 +6201,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Vruchtenlimonadesiroop aardbei Cool Bear",
@@ -4929,7 +6217,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Vruchtenlimonadesiroop framboos Cool Bear",
@@ -4938,7 +6233,14 @@
     "status": "laag",
     "pagina": 34,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Frisdrank / Koffie"
+    "subcategorie": "Frisdrank / Koffie",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Vruchtenlimonadesiroop lemon-­‐lime Cool Bear",
@@ -5001,7 +6303,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Darjeeling",
@@ -5037,7 +6346,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cranberry"
   },
   {
     "naam": "Green Tea, ginseng",
@@ -5154,7 +6470,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Green tea"
   },
   {
     "naam": "Groene thee, earl grey",
@@ -5163,7 +6486,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Green tea"
   },
   {
     "naam": "Groene thee, gember & citroen",
@@ -5172,7 +6502,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Green tea"
   },
   {
     "naam": "Groene thee, jasmijn",
@@ -5181,7 +6518,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Green tea"
   },
   {
     "naam": "Groene thee, sinaasappel & munt",
@@ -5190,7 +6534,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Herbal infusion, Andalusia",
@@ -5217,7 +6568,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemongrass"
   },
   {
     "naam": "Kruidenthee munt",
@@ -5226,7 +6584,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mint"
   },
   {
     "naam": "Kruidenthee rooibos",
@@ -5280,7 +6645,14 @@
     "status": "laag",
     "pagina": 35,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee"
+    "subcategorie": "Thee",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Stevia"
   },
   {
     "naam": "Sweet ginger (pot)",
@@ -5343,7 +6715,14 @@
     "status": "laag",
     "pagina": 36,
     "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Thee / Overig"
+    "subcategorie": "Thee / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Witte thee, original",
@@ -5388,7 +6767,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Ice cream"
   },
   {
     "naam": "Bevroren ijs op een stokje, rood fruit",
@@ -5397,7 +6783,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Ice cream"
   },
   {
     "naam": "Brasil basil lime ijs",
@@ -5406,7 +6799,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Ice cream"
   },
   {
     "naam": "Canelle Glosrieuses ijs",
@@ -5415,7 +6815,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Ice cream"
   },
   {
     "naam": "Chococolate",
@@ -5451,7 +6858,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Fresas del Habanero",
@@ -5469,7 +6883,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Fruitijsjes framboos + Hibiscus",
@@ -5478,7 +6899,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Jasmine orange yuzu",
@@ -5514,7 +6942,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Rijstmelkijs chocolade",
@@ -5523,7 +6958,14 @@
     "status": "laag",
     "pagina": 38,
     "opmerking": "Max. 150 ml per keer, wacht min. 30 min na hoofdmaaltijd.",
-    "subcategorie": "Diepvries ijs"
+    "subcategorie": "Diepvries ijs",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Siam Horapa Coco",
@@ -5541,7 +6983,14 @@
     "status": "beperkt",
     "pagina": 40,
     "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
-    "subcategorie": "Noten en zaden"
+    "subcategorie": "Noten en zaden",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sesame seeds"
   },
   {
     "naam": "Chiazaad Pecannoten Walnoten",
@@ -5550,7 +6999,14 @@
     "status": "beperkt",
     "pagina": 40,
     "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
-    "subcategorie": "Noten en zaden"
+    "subcategorie": "Noten en zaden",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chia seeds"
   },
   {
     "naam": "Hazelnoten Pijnboompitten Zonnebloempitten",
@@ -5568,7 +7024,14 @@
     "status": "beperkt",
     "pagina": 40,
     "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
-    "subcategorie": "Noten en zaden"
+    "subcategorie": "Noten en zaden",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Flax seeds/lineseed"
   },
   {
     "naam": "Macadamianoten Pompoenpitten",
@@ -5748,7 +7211,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Elbow",
@@ -5793,7 +7263,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Fusilli mais Le veneziane /",
@@ -5802,7 +7279,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Amisa / Consenza Pure and Free / Lieke is vrij / Ma",
@@ -5820,7 +7304,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Vie",
@@ -5838,7 +7329,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Millet flour"
   },
   {
     "naam": "Fusilli 4 granen Lieke is vrij /",
@@ -5892,7 +7390,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Lasagne rice & mais Lieke is vrij / Peaks Free From / Orgran / Schar",
@@ -5901,7 +7406,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Macaroni corn & rice",
@@ -5919,7 +7431,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Macaroni volkorenrijst",
@@ -5946,7 +7465,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Spinach"
   },
   {
     "naam": "Le veneziane / Orgran Gluten Free, Schär /",
@@ -5973,7 +7499,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Penne corn & rice",
@@ -5991,7 +7524,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Penne rice SamMills /",
@@ -6027,7 +7567,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "Schelpjes mais",
@@ -6036,7 +7583,14 @@
     "status": "laag",
     "pagina": 42,
     "opmerking": "",
-    "subcategorie": "Glutenvrije pasta"
+    "subcategorie": "Glutenvrije pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Shells",
@@ -6099,7 +7653,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Spaghetti mais gierst rijst",
@@ -6108,7 +7669,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Millet flour"
   },
   {
     "naam": "Spaghetti mais quinoa",
@@ -6117,7 +7685,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "Spaghetti volkorenrijst Consenza Pure and Free /",
@@ -6144,7 +7719,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Spirals buckwheat",
@@ -6198,7 +7780,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Buckwheat, flour"
   },
   {
     "naam": "Tagliatelle Italiaans, original Buontempo",
@@ -6234,7 +7823,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice noodles"
   },
   {
     "naam": "Black rice noodles",
@@ -6279,7 +7875,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice noodles"
   },
   {
     "naam": "Couscous, mais",
@@ -6288,7 +7891,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cous cous, wheat"
   },
   {
     "naam": "Couscous, rijst",
@@ -6297,7 +7907,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cous cous, wheat"
   },
   {
     "naam": "Rice noodles, 1 mm Suree",
@@ -6324,7 +7941,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Thai rice noodles",
@@ -6342,7 +7966,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice noodles"
   },
   {
     "naam": "Zwarte rijstnoedels",
@@ -6351,7 +7982,14 @@
     "status": "laag",
     "pagina": 43,
     "opmerking": "",
-    "subcategorie": "Pasta / Noedels"
+    "subcategorie": "Pasta / Noedels",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rice noodles"
   },
   {
     "naam": "Corn Tortilla",
@@ -6441,7 +8079,14 @@
     "status": "laag",
     "pagina": 46,
     "opmerking": "Max. 1 portie zoetigheid per maaltijd.",
-    "subcategorie": "Suiker en vervangers"
+    "subcategorie": "Suiker en vervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Stevia"
   },
   {
     "naam": "Suikerklontjes, riet-­‐ Fair Trade Original",
@@ -6477,7 +8122,14 @@
     "status": "laag",
     "pagina": 46,
     "opmerking": "Max. 1 portie zoetigheid per maaltijd.",
-    "subcategorie": "Suiker en vervangers"
+    "subcategorie": "Suiker en vervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Stevia"
   },
   {
     "naam": "Stevia, zoetjes Natrena",
@@ -6486,7 +8138,14 @@
     "status": "laag",
     "pagina": 46,
     "opmerking": "Max. 1 portie zoetigheid per maaltijd.",
-    "subcategorie": "Suiker en vervangers"
+    "subcategorie": "Suiker en vervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Stevia"
   },
   {
     "naam": "Sweetener",
@@ -6513,7 +8172,14 @@
     "status": "laag",
     "pagina": 46,
     "opmerking": "Max. 1 portie zoetigheid per maaltijd.",
-    "subcategorie": "Suiker en vervangers"
+    "subcategorie": "Suiker en vervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Stevia"
   },
   {
     "naam": "Sukrin Sukrin",
@@ -6549,7 +8215,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Butter"
   },
   {
     "naam": "Dieet Light",
@@ -6594,7 +8267,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Margarine"
   },
   {
     "naam": "Balsamicoazijn Mazzetti Balsamico",
@@ -6603,7 +8283,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Balsamic Vinegar"
   },
   {
     "naam": "Becel light dressing Becel",
@@ -6630,7 +8317,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Dressing, basilicum Amelander",
@@ -6639,7 +8333,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Basil"
   },
   {
     "naam": "Dressing, Framboos Hela",
@@ -6648,7 +8349,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Ketchup classico La BioIdea",
@@ -6657,7 +8365,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Ketchup (USA)"
   },
   {
     "naam": "Mayonaise Calvé / AH Biologisch / Hellmann’s",
@@ -6666,7 +8381,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, 80% Van Wijngaarden Zaanse",
@@ -6675,7 +8397,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, ambachtelijke",
@@ -6684,7 +8413,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, fris & romig",
@@ -6693,7 +8429,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, pot, extra romig Remia",
@@ -6702,7 +8445,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, pot, Vlaamse Remia",
@@ -6711,7 +8461,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, pot, met olijfolie Remia",
@@ -6720,7 +8477,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Mayonaise, royal D&L",
@@ -6729,7 +8493,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaise, truffel flavour Sau'cee",
@@ -6738,7 +8509,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "MayoRice, cocktail Probios",
@@ -6765,7 +8543,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mustard"
   },
   {
     "naam": "Mosterd, Franse, mild Marne",
@@ -6774,7 +8559,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mustard"
   },
   {
     "naam": "Mosterd, Luycks",
@@ -6783,7 +8575,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mustard"
   },
   {
     "naam": "Mosterd, Zaanse Huisman Zaanse",
@@ -6792,7 +8591,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mustard"
   },
   {
     "naam": "Pesto Verde, zonder knoflook Victor Russo's",
@@ -6801,7 +8607,14 @@
     "status": "laag",
     "pagina": 48,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Smeervet / Sauzen"
+    "subcategorie": "Smeervet / Sauzen",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Garlic"
   },
   {
     "naam": "Tabasco Tabasco",
@@ -6819,7 +8632,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Biologische passata di pomodoro AH puur en eerlijk",
@@ -6846,7 +8666,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Basil"
   },
   {
     "naam": "Passata di pomodoro originale La BioIdea",
@@ -6882,7 +8709,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Basil"
   },
   {
     "naam": "Tomaten, gezeefd Heinz",
@@ -6891,7 +8725,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Tomaten, zongedroogd, pomodori secchi Castelliono",
@@ -6900,7 +8741,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Tomaten, zongedroogd, pomodori essiccati Piacelli",
@@ -6909,7 +8757,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Margarine Wajang",
@@ -6918,7 +8773,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Margarine"
   },
   {
     "naam": "Becel original Becel",
@@ -6936,7 +8798,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Bertolli, met olijfolie Bertolli",
@@ -6945,7 +8814,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Coconut cooking cream, garlic Royal Green",
@@ -6990,7 +8866,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Iedere dag, voor koken, bakken roerbakken Blue Band",
@@ -7017,7 +8900,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "…..slaolie, wok olie, zonnebloemolie",
@@ -7026,7 +8916,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Olie, koolzaad puur Hollands Goud",
@@ -7044,7 +8941,14 @@
     "status": "laag",
     "pagina": 49,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Pastasauzen / Oliën"
+    "subcategorie": "Pastasauzen / Oliën",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Garlic infused oil"
   },
   {
     "naam": "Vloeibaar voor (roer) bakken & braden AH biologisch",
@@ -7071,7 +8975,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Ansjovisfilet met kappertjes, in zonnebloemolie",
@@ -7080,7 +8991,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Ansjovisfilets, in olijfolie",
@@ -7089,7 +9007,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Haringfilets",
@@ -7125,7 +9050,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Makreelfilets, in water",
@@ -7134,7 +9066,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Water"
   },
   {
     "naam": "Makreelfilets, met een vleugje zonnebloemolie",
@@ -7143,7 +9082,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Makreelfilets, naturel geen water toegevoegd",
@@ -7152,7 +9098,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Water"
   },
   {
     "naam": "Morjon sardines",
@@ -7161,7 +9114,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sardines, canned in oil"
   },
   {
     "naam": "Mosselen in pikante dressing",
@@ -7170,7 +9130,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mussels"
   },
   {
     "naam": "Mosselen, gerookt in olie Poul's",
@@ -7179,7 +9146,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mussels"
   },
   {
     "naam": "Rode Zalm, wild gevangen",
@@ -7188,7 +9162,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Salmon"
   },
   {
     "naam": "Sardines",
@@ -7197,7 +9178,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sardines, canned in oil"
   },
   {
     "naam": "Sardines in tomatensaus",
@@ -7206,7 +9194,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sardines, canned in oil"
   },
   {
     "naam": "Sardines in water Fish Tales",
@@ -7215,7 +9210,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sardines, canned in oil"
   },
   {
     "naam": "Sardines in zonnebloemolie Princes /",
@@ -7224,7 +9226,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sunflower oil"
   },
   {
     "naam": "Tonijn, basilicum",
@@ -7233,7 +9242,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Basil"
   },
   {
     "naam": "Tonijnstukken in tomatensaus",
@@ -7287,7 +9303,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Salmon"
   },
   {
     "naam": "Wilde Zalm, keta",
@@ -7296,7 +9319,14 @@
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vis conserven"
+    "subcategorie": "Vis conserven",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Salmon"
   },
   {
     "naam": "Borrel Worst, Italiaans",
@@ -7305,7 +9335,14 @@
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
+    "subcategorie": "Vlees en vleeswaren",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sausages"
   },
   {
     "naam": "Drentse Kosterworst",
@@ -7323,7 +9360,14 @@
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
+    "subcategorie": "Vlees en vleeswaren",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sausages"
   },
   {
     "naam": "Rookworst, Gelderse",
@@ -7341,7 +9385,14 @@
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
+    "subcategorie": "Vlees en vleeswaren",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sausages"
   },
   {
     "naam": "Rookworst, extra magere (XXL)",
@@ -7359,7 +9410,14 @@
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
+    "subcategorie": "Vlees en vleeswaren",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sausages"
   },
   {
     "naam": "Biologische achterham",
@@ -7449,7 +9507,14 @@
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
+    "subcategorie": "Vlees en vleeswaren",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cold cuts / deli meat / cold meats such as ham"
   },
   {
     "naam": "Magere (party) Knaks",
@@ -7503,7 +9568,14 @@
     "status": "laag",
     "pagina": 55,
     "opmerking": "",
-    "subcategorie": "Vleesvervangers"
+    "subcategorie": "Vleesvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tofu (drained or firm)"
   },
   {
     "naam": "Rul Gehakt",
@@ -7512,7 +9584,14 @@
     "status": "laag",
     "pagina": 55,
     "opmerking": "",
-    "subcategorie": "Vleesvervangers"
+    "subcategorie": "Vleesvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Ground beef"
   },
   {
     "naam": "Tofu gehakt Provamel, De Hobbit",
@@ -7521,7 +9600,14 @@
     "status": "laag",
     "pagina": 55,
     "opmerking": "",
-    "subcategorie": "Vleesvervangers"
+    "subcategorie": "Vleesvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Ground beef"
   },
   {
     "naam": "Tofu, olijven",
@@ -7530,7 +9616,14 @@
     "status": "laag",
     "pagina": 55,
     "opmerking": "",
-    "subcategorie": "Vleesvervangers"
+    "subcategorie": "Vleesvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Tofu snippers",
@@ -7539,7 +9632,14 @@
     "status": "laag",
     "pagina": 55,
     "opmerking": "",
-    "subcategorie": "Vleesvervangers"
+    "subcategorie": "Vleesvervangers",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tofu (drained or firm)"
   },
   {
     "naam": "Quorn stukjes dés",
@@ -7575,7 +9675,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Salt"
   },
   {
     "naam": "Borrel Kroepoek Toko-­‐lien",
@@ -7593,7 +9700,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Chips, zeezout Hoeksche /",
@@ -7602,7 +9716,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Chips, zeezout & grof gemalen zwarte peper",
@@ -7611,7 +9732,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pepper, black"
   },
   {
     "naam": "Chips, zwarte peper Hoeksche",
@@ -7620,7 +9748,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Pepper, black"
   },
   {
     "naam": "Corn chips, naturel",
@@ -7629,7 +9764,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Crinkle potato chips salted Go pure",
@@ -7638,7 +9780,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Crostini toscana",
@@ -7656,7 +9805,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sausages"
   },
   {
     "naam": "Hand cooked potato chips, pepper Go pure",
@@ -7665,7 +9821,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Hot krokantjes, rijst zoutjes Kimo nootje",
@@ -7674,7 +9837,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Kroepoek Go-­‐tan",
@@ -7692,7 +9862,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cassava"
   },
   {
     "naam": "Kroepoek / Prawn crackers",
@@ -7710,7 +9887,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Mini Corn Thins",
@@ -7737,7 +9921,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Chips, potato crisps (plain)"
   },
   {
     "naam": "Popcorn lightly salted",
@@ -7746,7 +9937,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Popcorn"
   },
   {
     "naam": "Popcorn sweet & salty",
@@ -7755,7 +9953,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Popcorn"
   },
   {
     "naam": "Popcorn wafel",
@@ -7764,7 +9969,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Popcorn"
   },
   {
     "naam": "Popcorn, salt Chio",
@@ -7773,7 +9985,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Popcorn"
   },
   {
     "naam": "Quicos Damel",
@@ -7818,7 +10037,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Suiker pinda's Nature's glory",
@@ -7827,7 +10053,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sugar/sucrose"
   },
   {
     "naam": "Wortelknabbels Goodies",
@@ -7854,7 +10087,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Zoute stokjes (mais salzstangen) 3Pauly",
@@ -7863,7 +10103,14 @@
     "status": "laag",
     "pagina": 57,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Corn / Sweet corn"
   },
   {
     "naam": "Brie",
@@ -7872,7 +10119,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Brie cheese"
   },
   {
     "naam": "Camembert",
@@ -7881,7 +10135,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Camembert cheese"
   },
   {
     "naam": "Cheddar",
@@ -7890,7 +10151,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cheddar cheese"
   },
   {
     "naam": "Edammer",
@@ -7917,7 +10185,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Feta cheese"
   },
   {
     "naam": "Geitenkaas, hard",
@@ -7926,7 +10201,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Goat cheese"
   },
   {
     "naam": "Gorgonzola",
@@ -7962,7 +10244,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mozzarella cheese"
   },
   {
     "naam": "Parmezaan",
@@ -7971,7 +10260,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Parmesan cheese"
   },
   {
     "naam": "Pecorino",
@@ -8007,7 +10303,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Cow milk"
   },
   {
     "naam": "Kokosmelk Fair Trade Original",
@@ -8016,7 +10319,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut milk, canned"
   },
   {
     "naam": "Kokosmelk Original + Calcium & vitamines Coconut Dream",
@@ -8025,7 +10335,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut milk, canned"
   },
   {
     "naam": "Kokosmelk Bio",
@@ -8034,7 +10351,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut milk, canned"
   },
   {
     "naam": "Kokosmelk, light Bon Coco",
@@ -8043,7 +10367,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut milk, canned"
   },
   {
     "naam": "Lactosevrije melk",
@@ -8052,7 +10383,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lactose free milk"
   },
   {
     "naam": "Lactosevrije melk, lactofree",
@@ -8061,7 +10399,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lactose free milk"
   },
   {
     "naam": "Original + Calcium & vitamines",
@@ -8088,7 +10433,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Rijst drink, calcium",
@@ -8097,7 +10449,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Soya Original Fresh drink",
@@ -8115,7 +10474,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Volle melk",
@@ -8124,7 +10490,14 @@
     "status": "laag",
     "pagina": 59,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Kaas / Melkdranken"
+    "subcategorie": "Kaas / Melkdranken",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Cow milk"
   },
   {
     "naam": "Almond Dark Choco drink",
@@ -8286,7 +10659,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lactose free milk"
   },
   {
     "naam": "Lactosevrijemelk lactofree UHT",
@@ -8412,7 +10792,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Rice Original drink",
@@ -8475,7 +10862,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Coconut milk yoghurt, natural (kokosyoghurt naturel)",
@@ -8484,7 +10878,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Coconut milk yoghurt, vanilla (kokosyoghurt met vanille)",
@@ -8493,7 +10894,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Coconut milk yoghurt, pineapple (kokosyoghurt met ananas)",
@@ -8502,7 +10910,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Creamy caramel dessert",
@@ -8529,7 +10944,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Mild & Creamy Aardbei & rabarber",
@@ -8538,7 +10960,14 @@
     "status": "laag",
     "pagina": 60,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Melkdranken / Yoghurt"
+    "subcategorie": "Melkdranken / Yoghurt",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Rhubarb"
   },
   {
     "naam": "Mild & Creamy Naturel",
@@ -8556,7 +10985,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Naturel yoghurt",
@@ -8565,7 +11001,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Probiotische yoghurt, mild, lactosevrij",
@@ -8574,7 +11017,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Yogurt"
   },
   {
     "naam": "Oat cuisine",
@@ -8592,7 +11042,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream, regular fat"
   },
   {
     "naam": "Rijst Cuisine",
@@ -8601,7 +11058,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Room, Cuisine Bio",
@@ -8610,7 +11074,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream, regular fat"
   },
   {
     "naam": "Roomkaas",
@@ -8619,7 +11090,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream cheese"
   },
   {
     "naam": "Roomkaas, lactosevrije",
@@ -8628,7 +11106,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream cheese"
   },
   {
     "naam": "Schoko-­‐pudding",
@@ -8646,7 +11131,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream, regular fat"
   },
   {
     "naam": "Slagroom bus (sprüh sahne)",
@@ -8655,7 +11147,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "matig"
+    },
+    "fodmap_src": "Cream, regular fat"
   },
   {
     "naam": "Bio dessert vanille (poeder) Joannusmolen",
@@ -8664,7 +11163,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Coffee Creamer + Calcium Joya",
@@ -8682,7 +11188,14 @@
     "status": "laag",
     "pagina": 61,
     "opmerking": "Kies lactosevrije of plantaardige varianten.",
-    "subcategorie": "Yoghurt / Overig"
+    "subcategorie": "Yoghurt / Overig",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "hoog"
+    },
+    "fodmap_src": "Custard"
   },
   {
     "naam": "Speltproducten",
@@ -8925,7 +11438,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Quinoa"
   },
   {
     "naam": "Biologische spelt Matze Crackers Hollandia",
@@ -8952,7 +11472,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wheat flour"
   },
   {
     "naam": "Knusperbrot -­‐ volkoren speltcrackers Werz",
@@ -8961,7 +11488,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wheat flour"
   },
   {
     "naam": "Oat & Spelt thins",
@@ -8997,7 +11531,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Poppy seeds"
   },
   {
     "naam": "Speltcrackers met sesam Schnitzer",
@@ -9006,7 +11547,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sesame seeds"
   },
   {
     "naam": "Speltcrackers Schnitzer / AH Liefde & Passie",
@@ -9114,7 +11662,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Dierentuin koekjes, spelt Werz",
@@ -9141,7 +11696,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Ginger"
   },
   {
     "naam": "Lange vingers, spelt Sweet Company",
@@ -9213,7 +11775,14 @@
     "status": "laag",
     "pagina": 64,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt broodvervangers / Koek"
+    "subcategorie": "Spelt broodvervangers / Koek",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vanilla"
   },
   {
     "naam": "Biobim spelt Biobim",
@@ -9240,7 +11809,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Geroosterde Speltmout Leev",
@@ -9312,7 +11888,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cous cous, wheat"
   },
   {
     "naam": "Fettuce speltpasta L’Origine",
@@ -9357,7 +11940,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wheat flour"
   },
   {
     "naam": "Pizzabodem, spelt (la pizza farro integrale) La Bioidea",
@@ -9402,7 +11992,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "hoog",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wheat flour"
   },
   {
     "naam": "Zilvervliesrijst met spelt en quinoa Lassie",
@@ -9411,7 +12008,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Brown rice"
   },
   {
     "naam": "Crackers spelt Terrasana",
@@ -9429,7 +12033,14 @@
     "status": "laag",
     "pagina": 65,
     "opmerking": "",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Spelt ontbijtgranen / Pasta",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olives"
   },
   {
     "naam": "Spelt soepstengels Sweet Company",
@@ -9591,7 +12202,14 @@
     "status": "laag",
     "pagina": 67,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Bio mayonaise met eieren, 500 ml Delhaize Bio",
@@ -9600,7 +12218,14 @@
     "status": "laag",
     "pagina": 67,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Bio tomaten ketchup",
@@ -9609,7 +12234,14 @@
     "status": "laag",
     "pagina": 67,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Boni Selection Dressing, pot 500 ml",
@@ -9654,7 +12286,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Dijonmosterd, pot 280 ml",
@@ -9708,7 +12347,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coconut milk, canned"
   },
   {
     "naam": "Mayo – olijfolie",
@@ -9717,7 +12363,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Olive Oil"
   },
   {
     "naam": "Mayo met citroen",
@@ -9726,7 +12379,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Mayo met ei",
@@ -9735,7 +12395,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Eggs"
   },
   {
     "naam": "Mayo eieren / mayonaise met eieren, 300 ml",
@@ -9744,7 +12411,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mayonnaise"
   },
   {
     "naam": "Mayonaisse Light, 420 ml",
@@ -9762,7 +12436,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Mustard"
   },
   {
     "naam": "Sambal oelek, 200 g",
@@ -9780,7 +12461,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Soy sauce"
   },
   {
     "naam": "Stirfry Wok Oil",
@@ -9834,7 +12522,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
+    "subcategorie": "Brood",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Strawberry"
   },
   {
     "naam": "Bouillonblokjes vlees, 120 g",
@@ -9879,7 +12574,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Koekjes, stukjes karamel (glutenfree & lactosefree)",
@@ -9924,7 +12626,14 @@
     "status": "laag",
     "pagina": 68,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Pindakrokantje met gepofte rijst en sesam il Croccante di Verona",
@@ -9933,7 +12642,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Sesame seeds"
   },
   {
     "naam": "Pindakrokantje en honing il Croccante di Verona",
@@ -9942,7 +12658,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "hoog",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Honey"
   },
   {
     "naam": "Sesamkrokantje en gepofte rijst il Croccante di Verona",
@@ -9951,7 +12674,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "White rice"
   },
   {
     "naam": "Zandkoekjes, framboos (glutenfree & lactosefree)",
@@ -9960,7 +12690,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Raspberry"
   },
   {
     "naam": "Zandkoekjes met citroen (organic & glutenfree) Little Pleasures",
@@ -9969,7 +12706,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Bouillon"
+    "subcategorie": "Bouillon",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lemon"
   },
   {
     "naam": "Bloc dessert, cooking chocolate fondant Jacques",
@@ -10005,7 +12749,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Original Organic Bar Mini Moos",
@@ -10023,7 +12774,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Dark chocolate"
   },
   {
     "naam": "Candy’s snoepkettingen",
@@ -10086,7 +12844,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Chocolade",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "hoog",
+      "polyolen": "matig",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Cherries"
   },
   {
     "naam": "Peachy, perzikken",
@@ -10149,7 +12914,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lime"
   },
   {
     "naam": "Bio, grenadine siroop",
@@ -10203,7 +12975,14 @@
     "status": "laag",
     "pagina": 69,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Lactose free milk"
   },
   {
     "naam": "Schweppers orange Schweppers",
@@ -10221,7 +13000,14 @@
     "status": "laag",
     "pagina": 70,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "hoog",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange juice"
   },
   {
     "naam": "Sinaasappelsap met pulp, petfles 1 L",
@@ -10230,7 +13016,14 @@
     "status": "laag",
     "pagina": 70,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "hoog",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange juice"
   },
   {
     "naam": "Sinaasappel Orange RF 1 L",
@@ -10239,7 +13032,14 @@
     "status": "laag",
     "pagina": 70,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Orange"
   },
   {
     "naam": "Siro’ citroensiroop",
@@ -10266,7 +13066,14 @@
     "status": "laag",
     "pagina": 70,
     "opmerking": "",
-    "subcategorie": "Zoute snacks"
+    "subcategorie": "Zoute snacks",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tomatoes"
   },
   {
     "naam": "Koffie / instantkoffie",
@@ -10275,7 +13082,14 @@
     "status": "laag",
     "pagina": 34,
     "subcategorie": "Koffie",
-    "opmerking": "Beperk cafeïne-inname — trigger voor darmklachten."
+    "opmerking": "Beperk cafeïne-inname — trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coffee (regular or decaf)"
   },
   {
     "naam": "Espresso / oploskoffie espresso",
@@ -10284,7 +13098,14 @@
     "status": "laag",
     "pagina": 34,
     "subcategorie": "Koffie",
-    "opmerking": "Beperk cafeïne-inname — trigger voor darmklachten."
+    "opmerking": "Beperk cafeïne-inname — trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Coffee, black"
   },
   {
     "naam": "Bier",
@@ -10293,7 +13114,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Beer"
   },
   {
     "naam": "Gin",
@@ -10302,7 +13130,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Gin"
   },
   {
     "naam": "Whisky",
@@ -10311,7 +13146,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Whiskey"
   },
   {
     "naam": "Wodka",
@@ -10320,7 +13162,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Vodka"
   },
   {
     "naam": "Rode wijn (niet zoet)",
@@ -10329,7 +13178,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wine"
   },
   {
     "naam": "Witte wijn, droog",
@@ -10338,7 +13194,14 @@
     "status": "laag",
     "pagina": 33,
     "subcategorie": "Alcohol",
-    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten."
+    "opmerking": "Max. 1 glas per keer. Alcohol is een trigger voor darmklachten.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Wine"
   },
   {
     "naam": "Tempeh, naturel",
@@ -10347,7 +13210,14 @@
     "status": "beperkt",
     "pagina": 55,
     "subcategorie": "Vleesvervangers",
-    "opmerking": "Max. 100 gram per keer."
+    "opmerking": "Max. 100 gram per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tempeh"
   },
   {
     "naam": "Stevige tofu (tahoe), naturel",
@@ -10356,7 +13226,14 @@
     "status": "beperkt",
     "pagina": 55,
     "subcategorie": "Vleesvervangers",
-    "opmerking": "Max. 170 gram per keer."
+    "opmerking": "Max. 170 gram per keer.",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Tofu (drained or firm)"
   },
   {
     "naam": "Eieren",
@@ -10365,6 +13242,13 @@
     "status": "laag",
     "pagina": 55,
     "subcategorie": "Vleesvervangers",
-    "opmerking": ""
+    "opmerking": "",
+    "fodmap": {
+      "oligos": "laag",
+      "fructose": "laag",
+      "polyolen": "laag",
+      "lactose": "laag"
+    },
+    "fodmap_src": "Eggs"
   }
 ]
