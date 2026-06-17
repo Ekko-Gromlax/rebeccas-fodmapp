@@ -49,6 +49,13 @@
   #q{width:100%;padding:15px 44px;border-radius:15px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font-family:'Hanken Grotesk';font-size:16px;font-weight:600;outline:none;transition:border-color .15s,box-shadow .15s}
   #q:focus{border-color:var(--brand);box-shadow:0 0 0 3px color-mix(in srgb,var(--brand) 16%, transparent)}
   #clear{position:absolute;right:12px;top:50%;transform:translateY(-50%);border:none;background:var(--surface);color:var(--ink);width:27px;height:27px;border-radius:50%;cursor:pointer;font-size:13px;font-weight:700;display:none;align-items:center;justify-content:center}
+  .suggest{position:absolute;left:0;right:0;top:calc(100% + 6px);background:var(--card);border:1.5px solid var(--line);border-radius:14px;box-shadow:0 10px 28px rgba(20,30,60,.14);overflow:hidden;z-index:30;display:none}
+  .suggest.show{display:block}
+  .suggest button{display:flex;align-items:center;gap:10px;width:100%;text-align:left;border:none;background:none;padding:11px 15px;cursor:pointer;border-bottom:1px solid var(--line);font-family:'Hanken Grotesk'}
+  .suggest button:last-child{border-bottom:none}
+  .suggest button.active,.suggest button:hover{background:var(--surface)}
+  .suggest .sname{font-size:14.5px;font-weight:700;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .suggest .scat{font-size:11.5px;font-weight:500;color:var(--muted);margin-left:auto;flex:0 0 auto;padding-left:8px}
   .chips{display:flex;gap:8px;overflow-x:auto}
   .chip{flex:0 0 auto;padding:9px 16px;border-radius:11px;font-family:'Hanken Grotesk';font-weight:700;font-size:13.5px;cursor:pointer;white-space:nowrap;transition:all .15s;border:none;background:var(--surface);color:var(--muted)}
   .chip.on{background:var(--brand);color:#fff}
@@ -117,6 +124,7 @@
       <span class="ico"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.6" y2="16.6"></line></svg></span>
       <input id="q" type="search" placeholder="Zoek een product…" autocomplete="off" autocorrect="off" autocapitalize="off">
       <button id="clear" aria-label="Wissen">✕</button>
+      <div class="suggest" id="suggest"></div>
     </div>
     <div class="chips noscroll" id="chips"></div>
     <div class="sfilter" id="sfilter">
@@ -232,14 +240,49 @@ function renderChips(){
 }
 
 // ---- events ----
+const sugEl = document.getElementById('suggest');
+let sugList = [], sugIdx = -1;
+function buildSuggestions(){
+  const q = query.trim().toLowerCase();
+  if (!q){ sugList=[]; sugIdx=-1; sugEl.classList.remove('show'); sugEl.innerHTML=''; return; }
+  const pool = ALLE.filter(p =>
+    (activeCat==='Alle'||p.categorie===activeCat) &&
+    (activeStatus.size===0||activeStatus.has(p.status)) &&
+    norm(p.naam).includes(q));
+  const seen=new Set(), pref=[], rest=[];
+  for (const p of pool){ const n=norm(p.naam); if (seen.has(n)) continue; seen.add(n);
+    (n.startsWith(q)?pref:rest).push(p); if (pref.length>=8) break; }
+  sugList=[...pref,...rest].slice(0,8); sugIdx=-1;
+  if (!sugList.length){ sugEl.classList.remove('show'); sugEl.innerHTML=''; return; }
+  sugEl.innerHTML = sugList.map((p,i)=>`<button data-i="${i}"><span class="sname">${esc(p.naam)}</span><span class="scat">${esc(p.categorie)}</span></button>`).join('');
+  sugEl.classList.add('show');
+}
+function pickSuggestion(i){
+  if (i<0||i>=sugList.length) return;
+  query = sugList[i].naam; const q=document.getElementById('q'); q.value=query;
+  document.getElementById('clear').style.display='flex';
+  sugEl.classList.remove('show'); render();
+}
 document.getElementById('q').addEventListener('input', e => {
   query = e.target.value;
   document.getElementById('clear').style.display = query ? 'flex' : 'none';
-  render();
+  buildSuggestions(); render();
 });
+document.getElementById('q').addEventListener('focus', buildSuggestions);
+document.getElementById('q').addEventListener('blur', () => setTimeout(()=>sugEl.classList.remove('show'), 150));
+document.getElementById('q').addEventListener('keydown', e => {
+  if (!sugEl.classList.contains('show')) return;
+  if (e.key==='ArrowDown'){ e.preventDefault(); sugIdx=Math.min(sugIdx+1,sugList.length-1); }
+  else if (e.key==='ArrowUp'){ e.preventDefault(); sugIdx=Math.max(sugIdx-1,0); }
+  else if (e.key==='Enter'){ if (sugIdx>=0){ e.preventDefault(); pickSuggestion(sugIdx); } return; }
+  else if (e.key==='Escape'){ sugEl.classList.remove('show'); return; }
+  else return;
+  [...sugEl.children].forEach((b,i)=>b.classList.toggle('active', i===sugIdx));
+});
+sugEl.addEventListener('mousedown', e => { const b=e.target.closest('[data-i]'); if (b){ e.preventDefault(); pickSuggestion(+b.dataset.i); } });
 document.getElementById('clear').addEventListener('click', () => {
   query = ''; const q = document.getElementById('q'); q.value=''; q.focus();
-  document.getElementById('clear').style.display='none'; render();
+  document.getElementById('clear').style.display='none'; sugEl.classList.remove('show'); render();
 });
 document.getElementById('chips').addEventListener('click', e => {
   const b = e.target.closest('[data-cat]'); if (!b) return;
