@@ -254,7 +254,7 @@ fetch('data.json', {cache:'no-cache'})
     }));
     ALLE = data.concat(niet);
     CATS = ['Alle', ...[...new Set(data.map(d=>d.categorie))].sort((a,b)=>a.localeCompare(b,'nl')), 'Niet toegestaan'];
-    document.getElementById('total').textContent = 'van ' + data.length + ' in de app';
+    document.getElementById('total').textContent = 'van ' + ALLE.length + ' in de app';
     renderChips();
     render();
   })
