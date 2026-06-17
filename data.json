@@ -443,14 +443,7 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Rambutan"
+    "subcategorie": "Vers fruit"
   },
   {
     "naam": "Blauwe bessen",
@@ -468,14 +461,7 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Melons e.g. Honeydew, galia"
+    "subcategorie": "Vers fruit"
   },
   {
     "naam": "Cantaloupe meloen",
@@ -484,14 +470,7 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Cantaloupe"
+    "subcategorie": "Vers fruit"
   },
   {
     "naam": "Kiwi gold",
@@ -500,14 +479,7 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1-2 eetlepels per keer. Vers of diepvries, geen pot of blik.",
-    "subcategorie": "Vers fruit",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Kiwifruit"
+    "subcategorie": "Vers fruit"
   },
   {
     "naam": "Frambozen",
@@ -609,14 +581,7 @@
     "status": "beperkt",
     "pagina": 11,
     "opmerking": "Max. 1 eetlepel per keer. Kies niet voor kokoswater of kokosmeel.",
-    "subcategorie": "Vers fruit",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Coconut (fresh or dried)"
+    "subcategorie": "Vers fruit"
   },
   {
     "naam": "Bananen chips",
@@ -1035,14 +1000,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Broccoli"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Kool",
@@ -1060,14 +1018,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Brussel sprouts"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Linzen, gekookt",
@@ -1076,14 +1027,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Lentils, canned"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Courgette",
@@ -1092,14 +1036,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Zucchini / courgette"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Maïskolf",
@@ -1117,14 +1054,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Fennel"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Doperwten",
@@ -1149,14 +1079,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Okra"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Witte kool",
@@ -1174,14 +1097,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Butternut squash"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Paksoi",
@@ -1190,14 +1106,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Bok choy"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Zoete aardappel",
@@ -1206,14 +1115,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Sweet Potato"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Haricots verts",
@@ -1231,14 +1133,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Snow peas"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Kikkererwten, blik",
@@ -1247,14 +1142,7 @@
     "status": "beperkt",
     "pagina": 12,
     "subcategorie": "Groenten / Zuur",
-    "opmerking": "Max. 1-2 eetlepels per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Chickpeas, canned"
+    "opmerking": "Max. 1-2 eetlepels per keer."
   },
   {
     "naam": "Prei, groene deel",
@@ -11418,14 +11306,7 @@
     "status": "beperkt",
     "pagina": 55,
     "subcategorie": "Vleesvervangers",
-    "opmerking": "Max. 100 gram per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Tempeh"
+    "opmerking": "Max. 100 gram per keer."
   },
   {
     "naam": "Stevige tofu (tahoe), naturel",
@@ -11434,14 +11315,7 @@
     "status": "beperkt",
     "pagina": 55,
     "subcategorie": "Vleesvervangers",
-    "opmerking": "Max. 170 gram per keer.",
-    "fodmap": {
-      "oligos": "laag",
-      "fructose": "laag",
-      "polyolen": "laag",
-      "lactose": "laag"
-    },
-    "fodmap_src": "Tofu (drained or firm)"
+    "opmerking": "Max. 170 gram per keer."
   },
   {
     "naam": "Eieren",
