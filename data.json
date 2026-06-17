@@ -1557,24 +1557,6 @@
     "subcategorie": "Granen"
   },
   {
-    "naam": "Bouillons, kruiden en",
-    "merk": "Alle merken",
-    "categorie": "Bakmiddelen",
-    "status": "laag",
-    "pagina": 17,
-    "opmerking": "",
-    "subcategorie": "Bakmiddelen"
-  },
-  {
-    "naam": "specerijen",
-    "merk": "Alle merken",
-    "categorie": "Bakmiddelen",
-    "status": "laag",
-    "pagina": 17,
-    "opmerking": "",
-    "subcategorie": "Bakmiddelen"
-  },
-  {
     "naam": "Basis, vegetarisch",
     "merk": "Vetara",
     "categorie": "Bouillon",
@@ -1753,33 +1735,6 @@
     "pagina": 19,
     "opmerking": "",
     "subcategorie": "Kruidenmixen"
-  },
-  {
-    "naam": "Brood,",
-    "merk": "Alle merken",
-    "categorie": "Kruiden",
-    "status": "laag",
-    "pagina": 20,
-    "opmerking": "",
-    "subcategorie": "Kruiden"
-  },
-  {
-    "naam": "broodvervangers en",
-    "merk": "Alle merken",
-    "categorie": "Kruiden",
-    "status": "laag",
-    "pagina": 20,
-    "opmerking": "",
-    "subcategorie": "Kruiden"
-  },
-  {
-    "naam": "ontbijtgranen",
-    "merk": "Alle merken",
-    "categorie": "Kruiden",
-    "status": "laag",
-    "pagina": 20,
-    "opmerking": "",
-    "subcategorie": "Kruiden"
   },
   {
     "naam": "100 % Zuurdesem spelt brood",
@@ -2718,15 +2673,6 @@
     "subcategorie": "Ontbijtgranen"
   },
   {
-    "naam": "Broodbeleg",
-    "merk": "Alle merken",
-    "categorie": "Brood",
-    "status": "laag",
-    "pagina": 24,
-    "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
-  },
-  {
     "naam": "Aardbeienjam, delight",
     "merk": "Hero",
     "categorie": "Broodbeleg",
@@ -3166,24 +3112,6 @@
     "pagina": 26,
     "opmerking": "",
     "subcategorie": "Notenpasta / Paté"
-  },
-  {
-    "naam": "Chocola, koek en",
-    "merk": "Alle merken",
-    "categorie": "Broodbeleg",
-    "status": "laag",
-    "pagina": 27,
-    "opmerking": "",
-    "subcategorie": "Broodbeleg"
-  },
-  {
-    "naam": "snoep",
-    "merk": "Alle merken",
-    "categorie": "Broodbeleg",
-    "status": "laag",
-    "pagina": 27,
-    "opmerking": "",
-    "subcategorie": "Broodbeleg"
   },
   {
     "naam": "Almond Cookies Island Bakery",
@@ -4482,15 +4410,6 @@
     "subcategorie": "Koek en wafels"
   },
   {
-    "naam": "Dranken",
-    "merk": "Alle merken",
-    "categorie": "Koek",
-    "status": "laag",
-    "pagina": 32,
-    "opmerking": "",
-    "subcategorie": "Koek"
-  },
-  {
     "naam": "AA Iso lemon AA",
     "merk": "Alle merken",
     "categorie": "Dranken",
@@ -5463,15 +5382,6 @@
     "subcategorie": "Thee / Overig"
   },
   {
-    "naam": "IJs",
-    "merk": "Alle merken",
-    "categorie": "Dranken",
-    "status": "laag",
-    "pagina": 37,
-    "opmerking": "Kies het liefst water of (niet te sterke) thee.",
-    "subcategorie": "Dranken"
-  },
-  {
     "naam": "Banana bahiana ijs",
     "merk": "Dr. Grunschnabel",
     "categorie": "IJs",
@@ -5785,24 +5695,6 @@
     "pagina": 40,
     "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
     "subcategorie": "Noten en zaden"
-  },
-  {
-    "naam": "Pasta’s, noedels en",
-    "merk": "Alle merken",
-    "categorie": "Noten",
-    "status": "beperkt",
-    "pagina": 41,
-    "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
-    "subcategorie": "Noten"
-  },
-  {
-    "naam": "tortilla’s",
-    "merk": "Alle merken",
-    "categorie": "Noten",
-    "status": "beperkt",
-    "pagina": 41,
-    "opmerking": "Max. 10 noten of 1 eetlepel zaden per keer. Vermijd pistache en cashewnoten.",
-    "subcategorie": "Noten"
   },
   {
     "naam": "Alfabet pasta for kids",
@@ -6514,24 +6406,6 @@
     "pagina": 44,
     "opmerking": "",
     "subcategorie": "Tortilla en pizza"
-  },
-  {
-    "naam": "Suiker en",
-    "merk": "Alle merken",
-    "categorie": "Pasta",
-    "status": "laag",
-    "pagina": 45,
-    "opmerking": "",
-    "subcategorie": "Pasta"
-  },
-  {
-    "naam": "suikervervangers",
-    "merk": "Alle merken",
-    "categorie": "Pasta",
-    "status": "laag",
-    "pagina": 45,
-    "opmerking": "",
-    "subcategorie": "Pasta"
   },
   {
     "naam": "Pannenkoekenstroop, bungel Van Gilse",
@@ -7425,33 +7299,6 @@
     "subcategorie": "Vis conserven"
   },
   {
-    "naam": "Vlees en",
-    "merk": "Alle merken",
-    "categorie": "Vetten",
-    "status": "laag",
-    "pagina": 52,
-    "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vetten"
-  },
-  {
-    "naam": "vleesvervangers",
-    "merk": "Alle merken",
-    "categorie": "Vetten",
-    "status": "laag",
-    "pagina": 52,
-    "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vetten"
-  },
-  {
-    "naam": "Vlees",
-    "merk": "Alle merken",
-    "categorie": "Vetten",
-    "status": "laag",
-    "pagina": 53,
-    "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vlees en vleeswaren"
-  },
-  {
     "naam": "Borrel Worst, Italiaans",
     "merk": "Unox",
     "categorie": "Vetten",
@@ -7720,15 +7567,6 @@
     "pagina": 55,
     "opmerking": "",
     "subcategorie": "Vleesvervangers"
-  },
-  {
-    "naam": "Zoute snacks",
-    "merk": "Alle merken",
-    "categorie": "Vlees",
-    "status": "laag",
-    "pagina": 56,
-    "opmerking": "",
-    "subcategorie": "Vlees"
   },
   {
     "naam": "Aardappelchips, zonder zout",
@@ -8024,33 +7862,6 @@
     "categorie": "Zoute snacks",
     "status": "laag",
     "pagina": 57,
-    "opmerking": "",
-    "subcategorie": "Zoute snacks"
-  },
-  {
-    "naam": "Zuivel: kaas,",
-    "merk": "Alle merken",
-    "categorie": "Zoute snacks",
-    "status": "laag",
-    "pagina": 58,
-    "opmerking": "",
-    "subcategorie": "Zoute snacks"
-  },
-  {
-    "naam": "melkdranken en",
-    "merk": "Alle merken",
-    "categorie": "Zoute snacks",
-    "status": "laag",
-    "pagina": 58,
-    "opmerking": "",
-    "subcategorie": "Zoute snacks"
-  },
-  {
-    "naam": "vervangers, yoghurt",
-    "merk": "Alle merken",
-    "categorie": "Zoute snacks",
-    "status": "laag",
-    "pagina": 58,
     "opmerking": "",
     "subcategorie": "Zoute snacks"
   },
@@ -9640,15 +9451,6 @@
   },
   {
     "naam": "Nederlandse variant niet. Check altijd de ingrediëntenlijst.",
-    "merk": "Alle merken",
-    "categorie": "Zoute snacks",
-    "status": "laag",
-    "pagina": 67,
-    "opmerking": "",
-    "subcategorie": "Zoute snacks"
-  },
-  {
-    "naam": "volgende update.",
     "merk": "Alle merken",
     "categorie": "Zoute snacks",
     "status": "laag",
