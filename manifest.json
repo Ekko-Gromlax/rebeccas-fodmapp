@@ -4,8 +4,8 @@
   "description": "Zoek FODMAP-producten snel op",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f8f6f0",
-  "theme_color": "#3B6D11",
+  "background_color": "#f2f5fb",
+  "theme_color": "#2b61df",
   "orientation": "portrait",
   "icons": [
     {
