@@ -1599,16 +1599,7 @@
     "subcategorie": "Bakmixen"
   },
   {
-    "naam": "Multigrain Bread Mix with Quinoa and Chia (broodmix met quinoa &",
-    "merk": "Alle merken",
-    "categorie": "Bakmiddelen",
-    "status": "laag",
-    "pagina": 15,
-    "opmerking": "",
-    "subcategorie": "Bakmixen"
-  },
-  {
-    "naam": "chia) Orgran, Gluten Free",
+    "naam": "Multigrain Bread Mix with Quinoa and Chia (broodmix met quinoa & chia) Orgran, Gluten Free",
     "merk": "Alle merken",
     "categorie": "Bakmiddelen",
     "status": "laag",
@@ -1680,7 +1671,7 @@
     "subcategorie": "Bakmixen"
   },
   {
-    "naam": "Cake mix gluten free Consenza /",
+    "naam": "Cake mix gluten free Consenza",
     "merk": "Damhert",
     "categorie": "Bakmiddelen",
     "status": "laag",
@@ -1806,7 +1797,7 @@
     "subcategorie": "Granen"
   },
   {
-    "naam": "Pannenkoekenmix Damhert /",
+    "naam": "Pannenkoekenmix Damhert",
     "merk": "Peaks Free From",
     "categorie": "Bakmiddelen",
     "status": "laag",
@@ -2157,7 +2148,7 @@
     "subcategorie": "Brood"
   },
   {
-    "naam": "Ciabatta Livwell /",
+    "naam": "Ciabatta Livwell",
     "merk": "Proceli",
     "categorie": "Brood",
     "status": "laag",
@@ -2256,17 +2247,8 @@
     "subcategorie": "Brood"
   },
   {
-    "naam": "Buckwheat flax seeds (dunne wafel met boekweit, rijst, quinoa,",
+    "naam": "Buckwheat flax seeds (dunne wafel met boekweit, rijst, quinoa, lijnzaad)",
     "merk": "Alle merken",
-    "categorie": "Brood",
-    "status": "laag",
-    "pagina": 21,
-    "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Brood"
-  },
-  {
-    "naam": "lijnzaad)",
-    "merk": "Lima",
     "categorie": "Brood",
     "status": "laag",
     "pagina": 21,
@@ -2544,17 +2526,8 @@
     "subcategorie": "Broodvervangers"
   },
   {
-    "naam": "Rice 100% (gewone en dunne rijstwafel met volle rijst, ongezouten en",
+    "naam": "Rice 100% (gewone en dunne rijstwafel met volle rijst, ongezouten en ongezouten)",
     "merk": "Alle merken",
-    "categorie": "Brood",
-    "status": "laag",
-    "pagina": 22,
-    "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
-  },
-  {
-    "naam": "ongezouten)",
-    "merk": "Lima",
     "categorie": "Brood",
     "status": "laag",
     "pagina": 22,
@@ -2589,17 +2562,8 @@
     "subcategorie": "Broodvervangers"
   },
   {
-    "naam": "Rice multigrain (rijstwafel met rijst, mais, quinoa, boekweit, gierst,",
+    "naam": "Rice multigrain (rijstwafel met rijst, mais, quinoa, boekweit, gierst, amaranth)",
     "merk": "Alle merken",
-    "categorie": "Brood",
-    "status": "laag",
-    "pagina": 22,
-    "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Broodvervangers"
-  },
-  {
-    "naam": "amaranth)",
-    "merk": "Lima",
     "categorie": "Brood",
     "status": "laag",
     "pagina": 22,
@@ -2796,7 +2760,7 @@
     "subcategorie": "Ontbijtgranen"
   },
   {
-    "naam": "Cornflakes glutenfree Consenca / Free From /",
+    "naam": "Cornflakes glutenfree Consenca / Free From",
     "merk": "Schär",
     "categorie": "Brood",
     "status": "laag",
@@ -3084,7 +3048,7 @@
     "subcategorie": "Zoet beleg"
   },
   {
-    "naam": "Chocoladepasta Penotti /",
+    "naam": "Chocoladepasta Penotti",
     "merk": "Orinoko",
     "categorie": "Broodbeleg",
     "status": "laag",
@@ -3416,7 +3380,7 @@
     "fodmap_src": "Peanut butter"
   },
   {
-    "naam": "Pompoenpittenpasta Carley's /",
+    "naam": "Pompoenpittenpasta Carley's",
     "merk": "Horizon",
     "categorie": "Broodbeleg",
     "status": "laag",
@@ -5653,7 +5617,7 @@
     "subcategorie": "Thee"
   },
   {
-    "naam": "Rooibos, original blend Lipton /",
+    "naam": "Rooibos, original blend Lipton",
     "merk": "Pickwick",
     "categorie": "Dranken",
     "status": "laag",
@@ -5662,7 +5626,7 @@
     "subcategorie": "Thee"
   },
   {
-    "naam": "Rooibos, original Bio + /",
+    "naam": "Rooibos, original Bio +",
     "merk": "Piramide",
     "categorie": "Dranken",
     "status": "laag",
@@ -6193,7 +6157,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Fusilli boekweit Ma Vie /",
+    "naam": "Fusilli boekweit Ma Vie",
     "merk": "Orgran",
     "categorie": "Pasta",
     "status": "laag",
@@ -6202,7 +6166,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Fusilli mais Le veneziane /",
+    "naam": "Fusilli mais Le veneziane",
     "merk": "Sam Mills",
     "categorie": "Pasta",
     "status": "laag",
@@ -6247,7 +6211,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Fusilli 4 granen Lieke is vrij /",
+    "naam": "Fusilli 4 granen Lieke is vrij",
     "merk": "Semper",
     "categorie": "Pasta",
     "status": "laag",
@@ -6256,7 +6220,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Fusilli rice Amisa / Doves farm / Orgran /",
+    "naam": "Fusilli rice Amisa / Doves farm / Orgran",
     "merk": "Rizopia",
     "categorie": "Pasta",
     "status": "laag",
@@ -6265,7 +6229,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Gnocchi Schär /",
+    "naam": "Gnocchi Schär",
     "merk": "Farabella",
     "categorie": "Pasta",
     "status": "laag",
@@ -6319,7 +6283,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Macaroni mais Consenza Pure and Free / Damhert /",
+    "naam": "Macaroni mais Consenza Pure and Free / Damhert",
     "merk": "Sam Mills",
     "categorie": "Pasta",
     "status": "laag",
@@ -6337,7 +6301,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Papardelle Semper /",
+    "naam": "Papardelle Semper",
     "merk": "Farabella",
     "categorie": "Pasta",
     "status": "laag",
@@ -6355,7 +6319,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Le veneziane / Orgran Gluten Free, Schär /",
+    "naam": "Le veneziane / Orgran Gluten Free, Schär",
     "merk": "Tinkyada",
     "categorie": "Pasta",
     "status": "laag",
@@ -6373,7 +6337,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Penne boekweit Ma Vie /",
+    "naam": "Penne boekweit Ma Vie",
     "merk": "Farabella",
     "categorie": "Pasta",
     "status": "laag",
@@ -6391,7 +6355,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Penne mais Consenza Pure and Free /",
+    "naam": "Penne mais Consenza Pure and Free",
     "merk": "Sam Mills",
     "categorie": "Pasta",
     "status": "laag",
@@ -6400,7 +6364,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Penne rice SamMills /",
+    "naam": "Penne rice SamMills",
     "merk": "Amisa",
     "categorie": "Pasta",
     "status": "laag",
@@ -6418,7 +6382,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Pipe Orgran, Gluten Free /",
+    "naam": "Pipe Orgran, Gluten Free",
     "merk": "Schär",
     "categorie": "Pasta",
     "status": "laag",
@@ -6463,7 +6427,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Spaghetti Le veneziane / Peaks Free From / Schär /",
+    "naam": "Spaghetti Le veneziane / Peaks Free From / Schär",
     "merk": "Orgran Gluten Free",
     "categorie": "Pasta",
     "status": "laag",
@@ -6481,7 +6445,7 @@
     "subcategorie": "Glutenvrije pasta"
   },
   {
-    "naam": "Spaghetti corn & rice Orgran Gluten Free /",
+    "naam": "Spaghetti corn & rice Orgran Gluten Free",
     "merk": "Damhert",
     "categorie": "Pasta",
     "status": "laag",
@@ -6499,7 +6463,7 @@
     "subcategorie": "Pasta / Noedels"
   },
   {
-    "naam": "Spaghetti mais Consenza Pure and Free / Pasta Masters / Peaks /",
+    "naam": "Spaghetti mais Consenza Pure and Free / Pasta Masters / Peaks",
     "merk": "Sam Mills",
     "categorie": "Pasta",
     "status": "laag",
@@ -6526,7 +6490,7 @@
     "subcategorie": "Pasta / Noedels"
   },
   {
-    "naam": "Spaghetti volkorenrijst Consenza Pure and Free /",
+    "naam": "Spaghetti volkorenrijst Consenza Pure and Free",
     "merk": "Rizopia",
     "categorie": "Pasta",
     "status": "laag",
@@ -6562,7 +6526,7 @@
     "subcategorie": "Pasta / Noedels"
   },
   {
-    "naam": "Spirals corn & rice Damhert /",
+    "naam": "Spirals corn & rice Damhert",
     "merk": "Orgran Gluten Free",
     "categorie": "Pasta",
     "status": "laag",
@@ -6571,7 +6535,7 @@
     "subcategorie": "Pasta / Noedels"
   },
   {
-    "naam": "Spirals rice Orgran Gluten Free /",
+    "naam": "Spirals rice Orgran Gluten Free",
     "merk": "Sam Mills",
     "categorie": "Pasta",
     "status": "laag",
@@ -6589,7 +6553,7 @@
     "subcategorie": "Pasta / Noedels"
   },
   {
-    "naam": "Tagliatelle Peaks Free From / Orgran Gluten Free /",
+    "naam": "Tagliatelle Peaks Free From / Orgran Gluten Free",
     "merk": "Farabella",
     "categorie": "Pasta",
     "status": "laag",
@@ -7651,18 +7615,9 @@
     "subcategorie": "Pastasauzen / Oliën"
   },
   {
-    "naam": "Vis",
-    "merk": "Alle merken",
-    "categorie": "Vetten",
-    "status": "laag",
-    "pagina": 50,
-    "opmerking": "Eet voldoende maar niet te veel vet.",
-    "subcategorie": "Vetten"
-  },
-  {
     "naam": "Ansjovis, in olijfolie",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7678,7 +7633,7 @@
   {
     "naam": "Ansjovisfilet met kappertjes, in zonnebloemolie",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7694,7 +7649,7 @@
   {
     "naam": "Ansjovisfilets, in olijfolie",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7710,7 +7665,7 @@
   {
     "naam": "Haringfilets",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7719,7 +7674,7 @@
   {
     "naam": "Haringfilets in tomatensaus",
     "merk": "Statesman",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7728,7 +7683,7 @@
   {
     "naam": "Kabeljauwlever",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7737,7 +7692,7 @@
   {
     "naam": "Kippers, gerookte haringfilets, in zonnebloemolie",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7753,7 +7708,7 @@
   {
     "naam": "Makreelfilets, in water",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7762,7 +7717,7 @@
   {
     "naam": "Makreelfilets, met een vleugje zonnebloemolie",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7778,7 +7733,7 @@
   {
     "naam": "Makreelfilets, naturel geen water toegevoegd",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7787,7 +7742,7 @@
   {
     "naam": "Morjon sardines",
     "merk": "Morjon",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7803,7 +7758,7 @@
   {
     "naam": "Mosselen in pikante dressing",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7812,7 +7767,7 @@
   {
     "naam": "Mosselen, gerookt in olie Poul's",
     "merk": "Alle merken",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7828,7 +7783,7 @@
   {
     "naam": "Rode Zalm, wild gevangen",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7844,7 +7799,7 @@
   {
     "naam": "Sardines",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7860,7 +7815,7 @@
   {
     "naam": "Sardines in tomatensaus",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7869,7 +7824,7 @@
   {
     "naam": "Sardines in water Fish Tales",
     "merk": "Alle merken",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7883,9 +7838,9 @@
     "fodmap_src": "Sardines, canned in oil"
   },
   {
-    "naam": "Sardines in zonnebloemolie Princes /",
+    "naam": "Sardines in zonnebloemolie Princes",
     "merk": "Statesman",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7901,7 +7856,7 @@
   {
     "naam": "Tonijn, basilicum",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7910,7 +7865,7 @@
   {
     "naam": "Tonijnstukken in tomatensaus",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7919,7 +7874,7 @@
   {
     "naam": "Tonno al naturale (0,5% fat)",
     "merk": "RIOmare",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7928,7 +7883,7 @@
   {
     "naam": "Tonno All'Olio di oliva",
     "merk": "RIOmare",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7937,7 +7892,7 @@
   {
     "naam": "Tonno in pezzi, al naturale",
     "merk": "RIOmare",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7946,7 +7901,7 @@
   {
     "naam": "Tonno in pezzi, All'olio di girasole",
     "merk": "RIOmare",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7955,7 +7910,7 @@
   {
     "naam": "Wilde Rode/Roze Zalm",
     "merk": "John West",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7971,7 +7926,7 @@
   {
     "naam": "Wilde Zalm, keta",
     "merk": "Statesman",
-    "categorie": "Vetten",
+    "categorie": "Vis",
     "status": "laag",
     "pagina": 51,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -7987,7 +7942,7 @@
   {
     "naam": "Borrel Worst, Italiaans",
     "merk": "Unox",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8003,7 +7958,7 @@
   {
     "naam": "Drentse Kosterworst",
     "merk": "Huls",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8012,7 +7967,7 @@
   {
     "naam": "Groninger ambachtelijke worst",
     "merk": "Huls",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8028,7 +7983,7 @@
   {
     "naam": "Rookworst, Gelderse",
     "merk": "AH Basic",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8037,7 +7992,7 @@
   {
     "naam": "Borrel Worst, Pittig",
     "merk": "Unox",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8053,7 +8008,7 @@
   {
     "naam": "Rookworst, extra magere (XXL)",
     "merk": "Unox",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8062,7 +8017,7 @@
   {
     "naam": "Sticks, droge worst",
     "merk": "Huls",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8078,7 +8033,7 @@
   {
     "naam": "Biologische achterham",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8087,7 +8042,7 @@
   {
     "naam": "Biologische gerookte kipfilet",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8096,7 +8051,7 @@
   {
     "naam": "Biologische katenspek",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8105,7 +8060,7 @@
   {
     "naam": "Biologische kipfilet",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8114,7 +8069,7 @@
   {
     "naam": "Biologische ontbijtspek",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8123,7 +8078,7 @@
   {
     "naam": "Biologische yorkham",
     "merk": "AH Biologisch",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8132,7 +8087,7 @@
   {
     "naam": "Lever paté",
     "merk": "AH basic",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8141,7 +8096,7 @@
   {
     "naam": "Corned beef Lancaster",
     "merk": "Alle merken",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8150,7 +8105,7 @@
   {
     "naam": "Corned beef, magere",
     "merk": "Princes",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8159,7 +8114,7 @@
   {
     "naam": "Ham",
     "merk": "AH Basic",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8175,7 +8130,7 @@
   {
     "naam": "Magere (party) Knaks",
     "merk": "Unox",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8184,7 +8139,7 @@
   {
     "naam": "Runder Knaks",
     "merk": "Unox",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 53,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8193,7 +8148,7 @@
   {
     "naam": "Chicken Fingers",
     "merk": "Schär",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 54,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8202,7 +8157,7 @@
   {
     "naam": "Kipnuggets glutenvrij",
     "merk": "Damhert",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 54,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8211,7 +8166,7 @@
   {
     "naam": "Kipsnacks",
     "merk": "Lieke is vrij",
-    "categorie": "Vetten",
+    "categorie": "Vlees",
     "status": "laag",
     "pagina": 54,
     "opmerking": "Eet voldoende maar niet te veel vet.",
@@ -8352,7 +8307,7 @@
     "subcategorie": "Zoute snacks"
   },
   {
-    "naam": "Chips, zeezout Hoeksche /",
+    "naam": "Chips, zeezout Hoeksche",
     "merk": "Kettle",
     "categorie": "Zoute snacks",
     "status": "laag",
@@ -10184,7 +10139,7 @@
     "subcategorie": "Spelt ontbijtgranen / Pasta"
   },
   {
-    "naam": "Crunchy Spelt Bio Today /",
+    "naam": "Crunchy Spelt Bio Today",
     "merk": "Zonnatura",
     "categorie": "Brood",
     "status": "laag",
@@ -10249,74 +10204,74 @@
   {
     "naam": "Chlorella speltpasta Mattisson",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Conchilli speltpasta L’Origine",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Couscous, spelt volkoren Pedon",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Fettuce speltpasta L’Origine",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Fusilli speltpasta L’Origine",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Mie noodles, spelt Alb-­‐Natur",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Penne, spelt Della Costa",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Penne, spelt volkoren Della Costa",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Pizzabodem, spelt (la pizza farro integrale) La Bioidea",
@@ -10339,11 +10294,11 @@
   {
     "naam": "Spaghetti di spelta Bioidea",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Speltbulgur Het Dichtste Bij",
@@ -10357,11 +10312,11 @@
   {
     "naam": "Speltcouscous, volkoren Pedon",
     "merk": "Alle merken",
-    "categorie": "Brood",
+    "categorie": "Pasta",
     "status": "laag",
     "pagina": 65,
     "opmerking": "Max. 2-3 sneetjes brood of stuks broodvervangers per keer.",
-    "subcategorie": "Spelt ontbijtgranen / Pasta"
+    "subcategorie": "Speltpasta"
   },
   {
     "naam": "Zilvervliesrijst met spelt en quinoa Lassie",
@@ -10996,11 +10951,11 @@
   {
     "naam": "Cola, colaflesjes",
     "merk": "Carrefour",
-    "categorie": "Chocolade",
+    "categorie": "Snoep",
     "status": "laag",
     "pagina": 69,
     "opmerking": "Max. 30 gram per keer.",
-    "subcategorie": "Chocolade"
+    "subcategorie": "Snoep"
   },
   {
     "naam": "Cuberdon Lutti",
