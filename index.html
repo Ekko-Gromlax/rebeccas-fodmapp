@@ -72,6 +72,7 @@
   main{padding:10px 18px 8px;display:flex;flex-direction:column;gap:10px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:0 1px 2px rgba(20,30,20,.04)}
   .card>button.head{display:flex;align-items:center;gap:13px;width:100%;background:none;border:none;cursor:pointer;text-align:left;padding:16px 17px}
+  .card>button.head.flat{cursor:default}
   .naam{display:block;font-size:17.5px;font-weight:700;letter-spacing:-.012em;color:var(--ink);line-height:1.15}
   .meta{display:flex;align-items:center;gap:9px;margin-top:8px;flex-wrap:wrap}
   .level{font-size:10.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:7px}
@@ -184,8 +185,9 @@ function filtered(){
 
 function cardHTML(p, i){
   const lm = LEVEL[p.status] || LEVEL.laag;
+  const has = !!(p.opmerking || p.fodmap);
   return `<div class="card" data-i="${i}">
-    <button class="head" data-toggle="${i}">
+    <button class="head${has ? '' : ' flat'}"${has ? ` data-toggle="${i}"` : ''}>
       <span style="flex:1;min-width:0;">
         <span class="naam">${esc(p.naam)}</span>
         ${(p.merk && p.merk !== '—' && p.merk !== 'Alle merken') ? `<span class="merk">${esc(p.merk)}</span>` : ''}
@@ -194,7 +196,7 @@ function cardHTML(p, i){
           <span class="cat">${esc(p.subcategorie || p.categorie)}</span>
         </span>
       </span>
-      <span class="chev"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span>
+      ${has ? `<span class="chev"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg></span>` : ''}
     </button>
   </div>`;
 }
