@@ -79,6 +79,7 @@
   .lvl-beperkt{background:var(--limited);color:#3a2a06}
   .lvl-niet{background:var(--avoid);color:#fff}
   .cat{font-size:12.5px;font-weight:500;color:var(--muted)}
+  .merk{display:block;font-size:13px;font-weight:600;color:var(--muted);margin-top:3px}
   .chev{flex:0 0 auto;color:var(--muted);display:flex;transition:transform .22s;opacity:.55}
   .card.open .chev{transform:rotate(180deg);opacity:1}
   .detail{padding:0 17px 18px;animation:expandIn .22s ease}
@@ -187,6 +188,7 @@ function cardHTML(p, i){
     <button class="head" data-toggle="${i}">
       <span style="flex:1;min-width:0;">
         <span class="naam">${esc(p.naam)}</span>
+        ${(p.merk && p.merk !== '—' && p.merk !== 'Alle merken') ? `<span class="merk">${esc(p.merk)}</span>` : ''}
         <span class="meta">
           <span class="level ${lm.cls}">${lm.short}</span>
           <span class="cat">${esc(p.subcategorie || p.categorie)}</span>
@@ -204,9 +206,6 @@ function detailHTML(p){
     h += `<div class="portie" style="background:color-mix(in srgb, ${lm.accent} 9%, var(--card));">
       <div class="lab"><span class="acc" style="background:${lm.accent}"></span><span class="t" style="color:${lm.accent}">Portie-advies</span></div>
       <p>${esc(p.opmerking)}</p></div>`;
-  }
-  if (p.merk && p.merk !== '—' && p.merk !== 'Alle merken'){
-    h += `<div class="section"><div class="lab">Merk</div><p>${esc(p.merk)}</p></div>`;
   }
   if (p.fodmap){
     let bars = '';
